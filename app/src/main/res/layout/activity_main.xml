@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:padding="16dip"
+    android:orientation="vertical"
+    tools:context="com.hyman.scaledemo.MainActivity" >
+
+    <com.hyman.gridview_item_rotate.widget.MyGridView
+        android:id="@+id/gridview"
+        android:scrollbarStyle="@null"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:numColumns="3"
+        android:columnWidth="100dip"
+        android:stretchMode="columnWidth"
+        android:horizontalSpacing="12dip"
+        android:verticalSpacing="12dip" />
+    
+    
+    	<LinearLayout 
+    	    android:id="@+id/logo_ly"
+    	    android:layout_width="fill_parent"
+    	    android:layout_height="wrap_content"
+    	    android:gravity="center"
+    	    android:orientation="vertical" >
+    	    
+    	</LinearLayout>
+ <!--    <TextView 
+        android:id="@+id/bmbm_logo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="5dip"
+        android:layout_marginBottom="10dip"
+        android:text="BMBM"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold" /> -->
+
+</LinearLayout>

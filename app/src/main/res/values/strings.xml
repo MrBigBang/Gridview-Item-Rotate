@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gridview-Item-Rotate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning">亲，一天只有一次机会哦...</string>
+    <string name ="points">恭喜，你得到了 %1$d 积分</string>
+    <string name="logo">COPYRIGHT @ HYMAN_LEE</string>
+
+</resources>
