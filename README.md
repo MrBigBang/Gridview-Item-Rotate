@@ -8,11 +8,11 @@ GridView-Item-Rotate
 
 ###3. Description
 In this little project , I achieved a effect of turning over playing cards , which is based on a GridView.  items of ths GridView can flip with a rotate animation such as turning over cards. what's more, when u shake your device the picture in item will be changed.
-The Rotate function in my project refer to [3DNumberRotate](https://github.com/jianghejie/3DNumberRotate) created by jianghejie, it very nice! thank you! Besides, I used **universal-image-loader** to download online pictures.
+The Rotate function in my project refer to [**3DNumberRotate**](https://github.com/jianghejie/3DNumberRotate) created by jianghejie, it very nice! thank you! Besides, I used **universal-image-loader** to download online pictures.
 
 ###4、Contact Me
-blog: [http://www.cnblogs.com/page-of-Hyman/](http://www.cnblogs.com/page-of-Hyman/)
-Github: [https://github.com/MrBigBang](https://github.com/MrBigBang)
+blog: [http://www.cnblogs.com/page-of-Hyman/](http://www.cnblogs.com/page-of-Hyman/)  
+Github: [https://github.com/MrBigBang](https://github.com/MrBigBang)  
 **Wellcome to point out the bug and give me advices!**
 
 ### MIT License
