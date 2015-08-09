@@ -29,16 +29,5 @@
     	    android:orientation="vertical" >
     	    
     	</LinearLayout>
- <!--    <TextView 
-        android:id="@+id/bmbm_logo"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:layout_marginTop="5dip"
-        android:layout_marginBottom="10dip"
-        android:text="BMBM"
-        android:textColor="#ffffff"
-        android:textSize="20sp"
-        android:textStyle="bold" /> -->
 
 </LinearLayout>
